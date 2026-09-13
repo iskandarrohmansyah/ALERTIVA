@@ -75,10 +75,6 @@ Future development of this module includes:
 - Integration with the Pulse Sensor
 - Integration with the ALERTIVA warning system
 
-## Author
-
-Iskandar Rohman Syah
-
 ## License
 
 This project is developed for educational and research purposes.
